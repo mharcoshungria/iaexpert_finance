@@ -2,4 +2,4 @@
 
 # Python para Finanças
 
-Repositório criado durante o curso de [Python para Finanças: Análise de Dados e Machine Learning](https://iaexpert.academy/courses/python-para-financas-analise-de-dados-e-machine-learning/) da [IA Expert Academy](https://iaexpert.academy).
+Repositório criado durante o curso de [Python para Finanças](https://iaexpert.academy/courses/python-para-financas-analise-de-dados-e-machine-learning/) da [IA Expert Academy](https://iaexpert.academy).
