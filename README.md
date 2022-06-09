@@ -1,5 +1,13 @@
-<img src="https://cdn.shortpixel.ai/spai/w_353+q_+ret_img+to_webp/https://iaexpert.academy/wp-content/uploads/2020/06/iaexpert-logo-1.png"  width="160">
+# Python para Finanças: Análise de Dados e Machine Learning
 
-## Python para Finanças
+__Objetivo:__   
 
-Repositório criado durante o curso de **Python para Finanças** da [IA Expert Academy](https://iaexpert.academy).
+O presente repositório foi criado para o curso de **Python para Finanças** da [IA Expert Academy](https://iaexpert.academy) com o objetivo de registar o conhecimento adiquidito.
+
+__Autor:__  
+
+- Mharcos Hungria
+    
+__Encontre-me:__  
+
+   -  [Linkedin](www.linkedin.com/in/mharcoshungria)
