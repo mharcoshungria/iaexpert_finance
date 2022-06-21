@@ -4,7 +4,7 @@
 
 Repositório criado para o curso de **Python para Finanças: Análise de Dados e Machine Learning** da [IA Expert Academy](https://iaexpert.academy).
 
-__Objetivo:__
+__Conteúdo:__
 
 - Visualização de dados financeiros
 - Taxas de retorno de ações
